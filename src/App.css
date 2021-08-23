@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+h2{
+  margin-bottom: 50px;
+  text-align: center;
+}
+.App {
+  margin: 20px;
+  display: flex;
+  
+}

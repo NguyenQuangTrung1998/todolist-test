@@ -1,0 +1,88 @@
+
+.todolist{
+    width: 60%;
+    border: 1px solid black;
+}
+.todolist>h2{
+    margin-top: 10px;
+}
+#inputSearch{
+    border-radius: 4px;
+    border: 1px solid #757474;
+    padding: 8px;  
+    margin-bottom: 15px;
+    width: 100%;
+}
+#selectPriority{
+    width: 300px;
+    padding: 8px;
+    outline: none;
+    margin-top: 10px;
+}
+.date > input{
+    width: 300px;
+    outline: none;
+    padding: 5px;
+    margin-top: 10px;
+}
+.bulk{
+    background-color: rgb(207, 212, 212);
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+}
+.btnAll{
+    margin-right: 30px;
+    padding: 6px 25px;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+}
+
+
+p{
+    margin-left: 30px;  
+    color: rgb(99, 96, 96);
+}
+#homework{
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #757474;
+    padding: 8px;   
+}
+ul{
+    list-style: none;
+}
+li{
+    width: 80%;
+    margin: 20px auto;
+    border: solid 1px black;
+    padding: 20px 10px;
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+
+}
+.check{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-left: 20px;
+}
+
+.btnAction{
+    margin-right: 30px;
+    padding: 4px 20px;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+}
+
+
+
+
+
